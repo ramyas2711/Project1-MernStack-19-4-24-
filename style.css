@@ -1,0 +1,77 @@
+*{
+    margin: 0 px;
+    padding: 0 px;
+}
+body{
+    padding: 10px;
+}
+div{
+    margin: 10px;
+}
+.header{
+    background-color: brown;
+}
+.headertext{
+    margin-left: 25vw;
+    font-size: 75px;
+    color:white;
+}
+.personal{
+    font-size: large;
+    padding: 20px;
+    line-height: 50px;
+    background-color: palegoldenrod;
+}
+.communication{
+    font-size: large;
+    padding: 20px;
+    line-height: 50px;
+    background-color: cadetblue;
+}
+.legal{
+    font-size: large;
+    padding: 20px;
+    line-height: 50px;
+    background-color: darksalmon;
+}
+.verification{
+    font-size: large;
+    padding: 20px;
+    line-height: 50px;
+    background-color: burlywood;
+}
+.payment{
+    font-size: large;
+    padding: 20px;
+    line-height: 50px;
+    background-color: lightblue;
+}
+.Document{
+    font-size: large;
+    padding: 20px;
+    line-height: 50px;
+    background-color: darksalmon;
+}
+img{
+    width:55px;
+    height: 55px;
+    border-radius: 25px;
+    margin-left: 85vw;
+    margin-bottom: 5px;
+
+}
+a{
+    margin-left: 85vw;
+    color:white;
+    margin-bottom: 10px;
+
+}
+button{
+    width: 80vw;
+    align-items: center;
+    margin-left: 75px;
+    height: 50px;
+}
+select{
+    width: 100px;
+}
